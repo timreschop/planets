@@ -2,7 +2,7 @@
 
 In this repository we are exploring different planets.
 
-##Contact
+## Contact
 
 write an email: xxx@blub.bla
 
